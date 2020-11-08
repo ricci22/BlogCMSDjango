@@ -25,4 +25,4 @@ class postslist(generic.ListView):
 # class based view for each post
 class postdetail(generic.DetailView):
     model = posts
-    template_name = "post.html"
+    template_name = 'post.html'
