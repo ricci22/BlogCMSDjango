@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "gfgblog\\env\\Scripts\\python.exe",
+    "terminal.integrated.shellArgs.windows": [
+        "-ExecutionPolicy",
+        "Bypass"
+    ]
+}
